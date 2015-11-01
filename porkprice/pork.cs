@@ -8,7 +8,6 @@ namespace porkprice
 {
     class pork
     {
-        public string discription;
        public string name;
         public double price;
       public   string date;
