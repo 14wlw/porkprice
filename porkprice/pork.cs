@@ -8,9 +8,9 @@ namespace porkprice
 {
     class pork
     {
-        string name;
-        double price;
-        DateTime date;
+       public string name;
+        public double price;
+      public   string date;
 
     }
 }
